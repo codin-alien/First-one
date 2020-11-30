@@ -1,0 +1,72 @@
+body {
+    background: rgb(250, 91, 61);;
+    Color: White;
+    font-size: large;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    Color: white;
+    font-family: Calibri;
+    text-align: center;
+}
+h5{
+    background: black;
+    color: Yellow;
+    font-size: xx-large; 
+}
+
+header{
+    background: black;
+    color: white;
+    padding:10px 30px 60px 20px ;
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font: bolder;
+    text-align: left;
+    background-image: url(../Images/1000030.jpg);
+    position: relative;
+    background-size:100%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+nav{text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    background-color:Gray;
+}
+footer{
+    background: rgb(0, 0, 0);
+    color: white;
+    padding: 30px 0px 30px 30px;
+    font-size: xx-large;
+    text-align: center; 
+    background-image: url(../Images/1000030.jpg);
+    position: relative;
+    background-size:100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+nav.class{ 
+    text-align: left;
+    margin: 0 ;
+    padding: 0px 20px 90px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
